@@ -6,7 +6,7 @@ however there seems to be very little correlation between any of the features an
 
 
 ## Scoring
-The coefficient of determination R<sup>2</sup>
+The coefficient of determination R<sup>2</sup> shows that in no way can this be an accurate model 
 
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/20866368/174113773-3c4f1d0c-5a35-497b-b15d-0a85d2fb2d98.png">
 
